@@ -1,11 +1,12 @@
-### Hi there! I'm a Data Scientist specializing in Healthcare & RWD 🚑📊  
-🔬 PhD in Biochemistry | 🎓 Master's in Data Science  
-💡 Exploring healthcare analytics, AI in medicine & strategic insights, Real-World Data, EHR Analytics, and Health Economics Research  
-📌 Key Skills: Python | R | SAS | SQL | ML | NLP | HTA | Biostatistics  
-📊 Featured Projects:  
-- 🏥 **EHR Analysis:** Predicting ICU Mortality using MIMIC-III  
-- 💊 **RWD Study:** Analyzing drug adherence trends from insurance claims  
-- 📈 **HERO Research:** Cost-effectiveness analysis of new diabetes treatment
-- 📈 **Regulatory Data Analytics**: NLP for FDA drug labels  
-🌱 Open to collaborations & opportunities in **biotech, pharma, and healthcare AI**.  
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/shanwen-yu-7a1553330/) | [Personal Blog](your_blog)
+ # Welcome 👋
+Aspiring Credit Risk Modeler with a strong analytical background and cross-disciplinary training.
+
+- 🎯 Focus: Financial Credit Risk Modeling & Quantitative Analysis  
+- 🎓 PhD in Bioengineering | M.S. in Data Science  
+- 📊 Passed CFA Level II – strong foundation in financial theory and risk assessment  
+- 🧠 Skilled in Python, R, SQL, statistical modeling, regression analysis and time series forecasting  
+- 🌱 Currently building projects at the intersection of finance, data science, and risk management
+- ☁️ Experience with cloud-based data workflows and Git for version control
+- 📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/shanwen-yu-7a1553330/)
+
+_I'm actively looking for opportunities in financial services, credit risk, and fintech domains where I can bring data-driven insights and contribute to intelligent risk management._
