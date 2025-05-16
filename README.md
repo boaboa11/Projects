@@ -1,12 +1,8 @@
- # Welcome 👋
-Aspiring Credit Risk Modeler with a strong analytical background and cross-disciplinary training.
 
-- 🎯 Focus: Financial Credit Risk Modeling & Quantitative Analysis  
-- 🎓 PhD in Bioengineering | M.S. in Data Science  
-- 📊 Passed CFA Level II – strong foundation in financial theory and risk assessment  
-- 🧠 Skilled in Python, R, SQL, statistical modeling, regression analysis and time series forecasting  
-- 🌱 Currently building projects at the intersection of finance, data science, and risk management
-- ☁️ Experience with cloud-based data workflows and Git for version control
+# 👋 Welcome to the world of a data-driven scientist passionate about AI, analytics, and real-world impact.
+
+Currently exploring the intersection of **machine learning**, **finance**, and **healthcare innovation**.
+
 - 📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/shanwen-yu-7a1553330/)
 
-_I'm actively looking for opportunities in financial services, credit risk, and fintech domains where I can bring data-driven insights and contribute to intelligent risk management._
+_I’m passionate about living a data-driven life—from uncovering insights through analytics to building AI-powered solutions that make everyday life smarter and more efficient. I believe in the power of **data + AI** to solve meaningful problems and improve how we live, work, and make decisions._
